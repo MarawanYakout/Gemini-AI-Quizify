@@ -47,6 +47,32 @@ Replace <your_script> with the name of the Python script you want to run.
 
 Follow the instructions in the Streamlit interface to interact with the Quiz Builder.
 
+## Program Structure
+
+### Embedding Client
+![Screenshot 2024-07-22 042511](https://github.com/user-attachments/assets/8cb851a0-184a-4776-a4d1-1ed948a71889)
+
+### Docoment Ingestion
+![Ilustration 1](https://github.com/user-attachments/assets/f31f3173-3bd3-4783-8178-7312f7118710)
+
+### Quiz Generation
+![Quiz Generator](https://github.com/user-attachments/assets/f0febb5b-edaa-43a0-9bdc-b2fa0e60dfe3)
+
+### Generate Quiz Algorithm
+![algorithm](https://github.com/user-attachments/assets/3887aa34-312f-4cf6-8e7c-68b87bcc4b59)
+
+### Screen State Handling
+![Screen handeling](https://github.com/user-attachments/assets/ccd57932-b248-489b-b8a0-6680b501c57c)
+
+### Questions Layout
+![Tested Questions on Books](https://github.com/user-attachments/assets/3abd2f0e-742c-4056-b5eb-0ba38e462a4e)
+
+
+## Example of the Program Output
+
+![Quiz Generation 2](https://github.com/user-attachments/assets/06e28797-4804-456e-864b-5963c2b0fb67)
+
+
 ## Contributiions
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes. Ensure your code follows the project's style and guidelines.
@@ -60,3 +86,8 @@ This project is based on [mission-quizify](https://github.com/radicalxdev/missio
 - [Streamlit](https://streamlit.io/) - For the development of the user interface.
 - [Google Cloud Platform](https://cloud.google.com/) - For the APIs and services used.
 - [Langchain](https://langchain.com/) - For the text embeddings technology.
+
+
+
+
+
